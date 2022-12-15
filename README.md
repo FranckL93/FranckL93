@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franck,
-- 👀 I’m interested in emerging tech (Digital Workplace, IoT, blockchain & 3D printing) & chess
+- 👀 I’m interested in emerging tech (Digital Workplace, cloud computing, IoT, blockchain & 3D printing) & chess
 - 🌱 I’m currently working at Wavestone with 7 years of experience as tech project manager & completed webdev bootcamp at Le Wagon
 - 💞️ I’m looking to collaborate on more tech projects such as new applications for personnal finance
 - 📫 How to reach me: franck.lemarchand@live.fr or my Linkedin: https://www.linkedin.com/in/francklemarchand
